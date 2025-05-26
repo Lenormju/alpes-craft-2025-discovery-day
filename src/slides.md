@@ -32,18 +32,18 @@ Quels sont les termes à définir ?
 
 # Comment définir ?
 
-* c'est compliqué  <!-- .element: class="fragment" -->
+C'est compliqué !  <!-- .element: class="fragment" -->
 
-* > 1. Fait de déterminer les caractéristiques d'un concept, d'un mot, d'un objet, etc., ensemble des propriétés essentielles de quelque chose.  
-  > Exemple : "La définition de ce mot n'est pas facile."  
-  > — Larousse
+> 1. Fait de déterminer les caractéristiques d'un concept, d'un mot, d'un objet, etc., ensemble des propriétés essentielles de quelque chose.  
+> Exemple : "La définition de ce mot n'est pas facile."  
+> — Larousse
 <!-- .element: class="fragment" -->
 
-* > 1. Opération par laquelle on détermine le contenu d'un concept en énumérant ses caractères.  
-  > — Le Robert
+> 1. Opération par laquelle on détermine le contenu d'un concept en énumérant ses caractères.  
+> — Le Robert
 <!-- .element: class="fragment" -->
 
-* Jeu : quelles différences ?  <!-- .element: class="fragment" -->
+Jeu : quelles différences ?  <!-- .element: class="fragment" -->
 
 Note:
 
@@ -390,6 +390,7 @@ Définition :
 * une façon d'avoir du code testable  <!-- .element: class="fragment" -->
 * une façon d'avoir du feedback rapide  <!-- .element: class="fragment" -->
 * une façon d'être certain d'avoir des tests à la fin  <!-- .element: class="fragment" -->
+* une forme de "spécification exécutable"
 * une technique de design ("test-driven design" ?)  <!-- .element: class="fragment" -->
 * n'est PAS la solution ultime à tous les problèmes  <!-- .element: class="fragment" -->
 
@@ -425,7 +426,7 @@ chat = "animal quadrupède à fourrure, qui fait miaou!"
 catalogue de problèmes/solutions connus
 <!-- .element: class="fragment" -->
 
-![https://refactoring.guru/design-patterns/catalog](./design_patterns_catalog_refactoring_guru.png)  <!-- .element: class="fragment" width="100px" -->
+![https://refactoring.guru/design-patterns/catalog](./design_patterns_catalog_refactoring_guru.png)  <!-- .element: class="fragment" width="500px" -->
 
 Notes:
 
@@ -805,3 +806,20 @@ patterns stratégiques et tactiques
 - Documentation
 - Archi héxa/clean/couches/orientée-services/micro-services/cqrs-es
 - DDD
+
+---
+
+# Pour continuer
+
+Quelles définitions pour :
+* couplage ?
+* dette technique ?
+* Lean ?
+* mock ?
+
+Pour continuer à apprendre :
+* conférences et meetups Craft
+* replays des conférences
+* podcasts, livres, articles, ...
+* pratiquer
+* [le livre "Software Craft" (Dunod)](https://www.dunod.com/sciences-techniques/software-craft-tdd-clean-code-et-autres-pratiques-essentielles-0)
